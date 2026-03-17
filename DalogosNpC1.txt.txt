@@ -1,5 +1,4 @@
 NPC: Hola viajero.
 NPC: Este camino lleva a la ciudad antigua.
 NPC: ¿Quieres que te muestre el camino? (SI/NO)
-
-["dialogoNPC-SI"]
+["dialogoNPC-NO"]
